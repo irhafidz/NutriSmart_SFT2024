@@ -1,0 +1,1 @@
+Dataset ini terdiri dari 500 gambar yang diambil secara mandiri selama pada tanggal 1 - 30 Agustus 2024, menggunakan 3 jenis kamera handphone. Link seluruh dataset gambar mandiri kotak nutrisi dari 500 MBDK (minuman berpemanis dalam kemasan) dapat diakses di https://drive.google.com/drive/folders/11zX60QF9gAz7NciMZpVYyqOck6bQGwLQ?usp=sharing
